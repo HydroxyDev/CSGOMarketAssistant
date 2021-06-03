@@ -21,7 +21,7 @@ async function giveanswer(msg) {
             value: 'Sends this message'
         }, {
             name: '?cma [item name]',
-            value: 'Sends a message with the price and more of the item. You need to give the exact English Item Name. StatTrak is not working at the moment!'
+            value: 'Sends a message with the price and more of the item. You need to give the exact English item name. StatTrak is not working at the moment!'
         }, {
             name: '?invite',
             value: 'Sends an invite to get this bot on your server'
