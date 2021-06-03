@@ -15,7 +15,7 @@ async function giveanswer(msg) {
         .setColor('#00adee')
         .setTitle("Help")
         .setDescription('Commands:')
-        .setThumbnail('https://cdn.discordapp.com/avatars/842470142704746526/07f94c25d5e9b6d67c4879a2d40e3231.png?size=1024')
+        .setThumbnail('https://cdn.discordapp.com/avatars/842470142704746526/8bf2a91412a6803f2c8f69ada3a94987.png?size=1024')
         .addFields({
             name: '?help',
             value: 'Sends this message'
